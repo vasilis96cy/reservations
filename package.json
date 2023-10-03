@@ -1,0 +1,23 @@
+{
+  "name": "reservations",
+  "version": "1.0.0",
+  "description": "reservation system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilis96cy/reservations.git"
+  },
+  "author": "vasilis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilis96cy/reservations/issues"
+  },
+  "homepage": "https://github.com/vasilis96cy/reservations#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
